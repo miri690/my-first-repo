@@ -1,6 +1,4 @@
-<img width="960" height="564" alt="post" src="https://github.com/user-attachments/assets/318f77b6-5d53-4bec-9b95-7c1b920a34a5" />
-<img width="960" height="564" alt="index" src="https://github.com/user-attachments/assets/7579720b-aee8-424f-8776-c9bd36b3c32e" />
-<img width="960" height="564" alt="admin" src="https://github.com/user-attachments/assets/4aefa88a-5471-4aa7-b044-6a0e7337af9d" />
+
 # portfolio_blog
 
 PHP と MySQL で作ったシンプルなブログです。  
