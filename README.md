@@ -28,6 +28,16 @@ portfolio_blog/
 ├─ admin.php        — 新規記事投稿フォーム  
 ├─ db.php           — データベース接続（PDO）  
 └─ style.css        — 画面のデザイン用CSS
+## 画面イメージ
+
+### 記事一覧画面（index.php）
+![記事一覧画面](images/index.png)
+
+### 新規投稿画面（admin.php）
+![新規投稿画面](images/admin.png)
+
+### 記事詳細画面（post.php）
+![記事詳細画面](images/post.png)
 
 ## データベース構成
 
